@@ -5,6 +5,7 @@ Opencore Efi Folder
 - Cpu
 - igpu + Hardware acceleration
 - keyboard + trackpad
+- Audio
 - brightness keys
 
 ### Not working 
